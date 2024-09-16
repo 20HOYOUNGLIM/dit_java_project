@@ -1,1 +1,1 @@
-# dit_java_project
+# java_project
